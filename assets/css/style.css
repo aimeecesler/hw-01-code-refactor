@@ -1,3 +1,5 @@
+/* rearranged all style elements to follow same flow as HTML document */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -9,7 +11,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/*:Font and background for header bar:*/
+/*Font and background for header bar*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -56,6 +58,7 @@ a {
 }
 
 /*main image*/
+/* renamed from hero to figure and moved image link to html file */
 .figure {
   width: 100%;
   margin-bottom: 25px;
@@ -71,6 +74,7 @@ a {
 }
 
 /*main content boxes*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .content-style {
   margin-bottom: 20px;
   padding: 50px;
@@ -81,11 +85,13 @@ a {
 }
 
 /*main content images*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .content-style img {
   max-height: 200px;
 }
 
 /*main content headers*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .content-style h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -109,6 +115,7 @@ p {
 }
 
 /*side bar*/
+/* updated color for better ADA contrast */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -121,18 +128,21 @@ p {
 }
 
 /*side bar sections*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .benefit-style {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
 /*side bar headers*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .benefit-style h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
 /*side bar images*/
+/* consolidated 3 old classes into one and made one style element instead of 3 for the same thing */
 .benefit-style img {
   display: block;
   margin: 10px auto;
