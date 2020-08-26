@@ -4,7 +4,7 @@
   margin: 0;
 }
 
-/*:Background Color for entire body of webpage:*/
+/*Background Color for entire body of webpage*/
 body {
   background-color: #d9dcd6;
 }
@@ -18,18 +18,18 @@ body {
   color: #ffffff;
 }
 
-/*:font for main h1 element in header:*/
+/*font for main h1 element in header*/
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-/*:font for SEO portion of company name:*/
+/*font for SEO portion of company name*/
 .header h1 .seo {
   color: #d9dcd6;
 }
 
-/*:navigation pane on header:*/
+/*navigation pane on header*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -38,40 +38,39 @@ body {
   font-size: 20px;
 }
 
-/*:navigation list:*/
+/*navigation list*/
 .header nav ul {
   list-style-type: none;
 }
 
-/*:navigation text:*/
+/*navigation text*/
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
 
-/*:links:*/
+/*links*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
-/*:main image:*/
+/*main image*/
 .figure {
-  height: 800px;
   width: 100%;
   margin-bottom: 25px;
   background-size: cover;
   background-position: center;
 }
 
-/*:main content:*/
+/*main content*/
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-/*:main content boxes:*/
+/*main content boxes*/
 .content-style {
   margin-bottom: 20px;
   padding: 50px;
@@ -81,35 +80,35 @@ a {
   color: #ffffff;
 }
 
-/*:main content images:*/
+/*main content images*/
 .content-style img {
   max-height: 200px;
 }
 
-/*:main content headers:*/
+/*main content headers*/
 .content-style h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-/*:float left:*/
+/*float left*/
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
-/*:paragraph:*/
+/*paragraph*/
 p {
   font-size: 16px;
 }
 
-/*:float right:*/
+/*float right*/
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
-/*:side bar:*/
+/*side bar*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -121,26 +120,26 @@ p {
   background-color: #0072bb;
 }
 
-/*:side bar sections:*/
+/*side bar sections*/
 .benefit-style {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-/*:side bar headers:*/
+/*side bar headers*/
 .benefit-style h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-/*:side bar images:*/
+/*side bar images*/
 .benefit-style img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-/*:footer:*/
+/*footer*/
 .footer {
   padding: 30px;
   clear: both;
@@ -149,7 +148,7 @@ p {
   text-align: center;
 }
 
-/*:footer h2 elements:*/
+/*footer h2 elements*/
 .footer h2 {
   font-size: 20px;
 }
