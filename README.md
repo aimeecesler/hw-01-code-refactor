@@ -50,7 +50,7 @@ During the refactoring process I made the following changes to the HTML and CSS 
 * Updated the background color on the aside section for ADA contrast compliance.
 
 ## ADA Compliance
-This webpage was run through the WAVE Web Accessibility Evaluation Tool to ensure compliance (https://wave.webaim.org/). There were no errors detected.
+This webpage was run through the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) to ensure compliance. There were no errors detected.
 
 ![WAVE RESULTS](WAVE.PNG)
 
