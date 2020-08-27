@@ -14,6 +14,15 @@ This repository contains my refactoring of the Horiseon company website. My goal
 1. Clone the repository using an SSH key.
 1. Open GitBash and use "git clone" to clone the repository.
 
+## Usage
+Edit using VSCode after [installation](#installation). HTML and CSS files are provided.
+
+HTML
+![HTML](HTML.PNG)
+
+CSS
+![CSS](CSS.PNG)
+
 ## Refactoring Process
 During the refactoring process I made the following changes to the HTML and CSS code:
 * Updated the title for a more descriptive option
