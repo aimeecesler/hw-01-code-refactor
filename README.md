@@ -30,7 +30,7 @@ During the refactoring process I made the following changes to the HTML and CSS 
 ## ADA Compliance
 This webpage was run through the WAVE Web Accessibility Evaluation Tool to ensure compliance (https://wave.webaim.org/). There were no errors detected.
 
-![WAVE RESULTS](/wave.png)
+![WAVE RESULTS](./https://github.com/aimeecesler/hw-01-code-refractor/blob/master/WAVE.PNG)
 
 
 
