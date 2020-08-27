@@ -22,9 +22,11 @@ This repository contains my refactoring of the Horiseon company website. My goal
 Edit using VSCode after [installation](#installation). HTML and CSS files are provided.
 
 HTML
+
 ![HTML](HTML.PNG)
 
 CSS
+
 ![CSS](CSS.PNG)
 
 ## Refactoring Process
