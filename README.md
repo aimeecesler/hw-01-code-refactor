@@ -1,4 +1,4 @@
-# Homework Assignment 1: HW-01-CODE-REFRACTOR
+# Homework Assignment 1: HW-01-CODE-REFACTOR
 This repository contains my refactoring of the Horiseon company website. My goal was to not only create a better functioning website but to also ensure that it is compliant with all ADA requirements.
 
 ## Table of Contents
@@ -84,17 +84,16 @@ WHEN I view the title element :heavy_check_mark:
 THEN I find a concise, descriptive title :heavy_check_mark:
 
 ## Credits
-
-
+A big thank you to Jon Canales, Sami Sully and the rest of our Discord study group!
 
 
 ## Badges
 ![badge](https://img.shields.io/github/issues-raw/aimeecesler/hw-01-code-refractor)
 
 ## Links
-Repository Link: https://github.com/aimeecesler/hw-01-code-refractor
+[Repository Link](https://github.com/aimeecesler/hw-01-code-refractor)
 
-Deployed Application: https://aimeecesler.github.io/hw-01-code-refractor/
+[Deployed Application](https://github.com/aimeecesler/hw-01-code-refactor)
 
 ## License
 Copyright (c) [2020] [Aimee Corbin Esler]
