@@ -93,9 +93,9 @@ A big thank you to Jon Canales, Sami Sully and the rest of our Discord study gro
 ![badge](https://img.shields.io/github/issues-raw/aimeecesler/hw-01-code-refractor)
 
 ## Links
-[Repository Link](https://github.com/aimeecesler/hw-01-code-refractor)
+[Repository Link](https://github.com/aimeecesler/hw-01-code-refactor)
 
-[Deployed Application](https://github.com/aimeecesler/hw-01-code-refactor)
+[Deployed Application](https://aimeecesler.github.io/hw-01-code-refactor/)
 
 ## License
 Copyright (c) [2020] [Aimee Corbin Esler]
